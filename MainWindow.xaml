@@ -1,0 +1,5 @@
+﻿<NavigationWindow  x:Class="MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Учет" Height="350" Width="525" Source="Table.xaml" ShowsNavigationUI="False">
+</NavigationWindow >
